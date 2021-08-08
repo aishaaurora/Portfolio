@@ -977,7 +977,7 @@ html[xmlns] .slides {
 
 #works {
     position: relative;
-    padding-bottom: 2px;
+    padding-bottom: 0px;
     line-height: 0;
 }
 
