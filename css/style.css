@@ -4,7 +4,7 @@ html, body {
 	width: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	line-height: 1;
 	font-weight: 400;
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h4 {
 	font-size: 16px;
-	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700px;
 	line-height: 22px;
 }
@@ -164,6 +164,7 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
 	font-size: 29px;
 	line-height: 32px;
 	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .title-box h2:before {
@@ -288,6 +289,7 @@ section {
 	background:#FFF;
 	border-color: FFFF;
 	color:#5F5A5A;
+	
 }
 
 .btn-white:hover, .btn-white:focus {
@@ -726,7 +728,7 @@ section {
 
 .home {
 	overflow: hidden;
-	font-family: "Raleway", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .home .slides {
@@ -740,9 +742,10 @@ section {
 
 .big {
 	font-size: 50px;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
 	line-height: 70px;
-	text-transform: uppercase;
+	
 	margin: 6px -10px;
 	color: #fff;
 }
@@ -1006,6 +1009,7 @@ html[xmlns] .slides {
     font-weight:600;
     font-size: 14px;
     border: 2px solid #B1AEAE;
+	border-radius: 20px;
 }
 
 .filter:last-child {
@@ -1595,7 +1599,7 @@ html[xmlns] .slides {
 	line-height: 36px;
 	margin-bottom: 30px;
 	font-style: italic;
-	font-family: "Roboto";
+	font-family: 'Open Sans', sans-serif;
 }
 
 #testimonials .name {
@@ -1802,7 +1806,7 @@ html[xmlns] .slides {
 
  .breadcrumb ul li::after {
  content: "\f101";
- font-family: 'fontawesome';
+ font-family: 'Open Sans', sans-serif;
  color: #FFF;
  line-height: 21px;
  vertical-align: middle;
@@ -2192,7 +2196,7 @@ li.comment ol.comment-sub {
 .post-categories li a:before {
 	content: "\f105";
 	display: block;
-	font-family: FontAwesome;
+	font-family: 'Open Sans', sans-serif;
 	position: absolute;
 	left: -15px;
 }
